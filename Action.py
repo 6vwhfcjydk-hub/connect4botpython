@@ -38,3 +38,4 @@ def remove_piece(syb,i,board,possible_placement_of_piece):
     board[row_piece_removed_from][i]='.'
     possible_placement_of_piece[i]+=1
     return True
+#Testing github!!
